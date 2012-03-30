@@ -2,7 +2,7 @@
   "name": "commonjs-jquery",
   "description": "jQuery packaged for CommonJS",
   "main": "./commonjs-jquery.js",
-  "version": "1.5.2"
+  "version": "1.6.4",
   "author": "Jakob Mattsson <jakob.mattsson@gmail.com> (jakobmattsson.se)",
   "repository": {
     "type": "git",
